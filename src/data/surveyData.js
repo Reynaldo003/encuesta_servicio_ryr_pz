@@ -1,17 +1,6 @@
 export const asesores = [
-  "Cesar Ivan Salazar Reyes",
-  "Cristian Fernando Rivera Godinez",
-  "Dulce Abigail Garcia Olivares",
-  "Felix Emmanuel Solis Angeles",
-  "German Jarith Salazar Miranda",
-  "Iris Yazmín Gómez Velázquez",
-  "Israel Garcia Juarez",
-  "Jorge Antonio Rodriguez Martinez",
-  "Jose De Jesus Garcia Roman",
-  "Juan Manuel Sobrevilla Vicencio",
-  "Miguel Capitanachi Paredes",
-  "Olimpia Vazquez Mendez",
-  "Roberto Ramses Luna Fajardo",
+  "Mariana Licona Salinas",
+  "Diana Karen Jimenez Almora",
 ];
 
 export const motivos = [
